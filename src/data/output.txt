@@ -1,0 +1,13 @@
+@Mappings({
+	@Mapping(source = "", target = "insTyp"),
+	@Mapping(source = "", target = "insProdSts"),
+	@Mapping(source = "", target = "insPlan"),
+	@Mapping(source = "", target = "insProdEffStartDt"),
+	@Mapping(source = "", target = "insProdTermDt"),
+	@Mapping(source = "", target = "laborRate"),
+	@Mapping(source = "", target = "createdBy"),
+	@Mapping(source = "", target = "createdDt"),
+	@Mapping(source = "", target = "updatedBy"),
+	@Mapping(source = "", target = "updatedDt"),
+	@Mapping(source = "", target = "lastUpdatedSys")
+})

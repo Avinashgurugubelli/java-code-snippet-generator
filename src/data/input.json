@@ -1,0 +1,13 @@
+{
+    "insTyp": "string",
+    "insProdSts": "string",
+    "insPlan": "string",
+    "insProdEffStartDt": "string",
+    "insProdTermDt": "string",
+    "laborRate": "string",
+    "createdBy": "string",
+    "createdDt": "string",
+    "updatedBy": "string",
+    "updatedDt": "string",
+    "lastUpdatedSys": "string"
+  }
